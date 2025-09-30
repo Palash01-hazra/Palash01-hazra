@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hazra81520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hazra81520" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/palash hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palash hazra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/palash-hazra-7233aa253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palash hazra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/achiver01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="achiver01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hazrap065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hazrap065" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hazrap065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hazrap065" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hazrap065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hazrap065" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/palash_u_hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palash_u_hazra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hazrars2n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hazrars2n" height="30" width="40" /></a>
