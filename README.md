@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palash Hazra</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palash01-hazra" alt="palash01-hazra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@hazra81520" target="blank"><img src="https://img.shields.io/twitter/follow/@hazra81520?logo=twitter&style=for-the-badge" alt="@hazra81520" /></a> </p>
 
